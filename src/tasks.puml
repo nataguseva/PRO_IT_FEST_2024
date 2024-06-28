@@ -1,0 +1,16 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+top to bottom direction
+skinparam wrapWidth 200
+
+* задача
+**[#lime] идёт
+**[#red] не идёт
+*** сложная
+**** значительно превышает уровень навыков
+***** вызывает тревогу, страх
+*** простая
+**** ниже уровня навыков
+***** скука
+
+@endmindmap
