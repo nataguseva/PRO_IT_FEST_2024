@@ -4,17 +4,7 @@ top to bottom direction
 skinparam wrapWidth 200
 skinparam align center
 
-'left side
 
-
-'top to bottom direction
-'skinparam wrapWidth 200
-'
-'* электрический ток
-'** сильный
-'*** <img:/light.jpg{scale=0.3}>
-'** слабый
-'*** <img:/hard.jpg{scale=0.42}>
 
 * **1908**
 ** <img:/zakon_1.jpg{scale=0.6}>

@@ -1,0 +1,53 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+top to bottom direction
+skinparam wrapWidth 180
+skinparam align center
+
+
+
+* **что делаем с задачей**
+**[%lighten("lightSkyBlue", 20)] простая задача 1-2 балла сложности
+***[%lighten("lightSkyBlue", 20)] ниже уровня навыков
+****[%lighten("lightSkyBlue", 20)] задачу усложнить
+*****[%lighten("lightSkyBlue", 20)]:1. использовать новый инструмент
+2. сократить сроки
+3. отдать на ревью
+4. научить джуна;
+
+**[#lightSkyBlue] средняя задача 3-4 балла
+***[#lightSkyBlue] на уровне навыков
+****[#lightSkyBlue] просто выполняем задачу
+
+
+**[%darken("lightSkyBlue", 20)] сложная задача 5-6 баллов
+***[%darken("lightSkyBlue", 20)] выше уровня навыков
+****[%darken("lightSkyBlue", 20)] задачу упростить
+*****[%darken("lightSkyBlue", 20)]:1. использовать шаблонные решения
+2. декомпозировать задачу
+3. уточнить ожидания;
+
+left side
+skinparam wrapWidth 180
+
+* **что делаем с мотивацией**
+**[%darken("hotpink", 20)] 5-6 баллов
+***[%darken("hotpink", 20)] снижаем стресс
+****[%darken("hotpink", 20)]:1. использовать новый инструмент
+2. попросить помощи
+3. отдать на ревью
+4. научить джуна;
+**[#hotpink] 3-4 балла
+**[%lighten("hotpink", 30)] 1-2 балла
+
+
+
+
+
+
+
+
+
+
+
+@endmindmap
