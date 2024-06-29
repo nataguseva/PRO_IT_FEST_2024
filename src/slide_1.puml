@@ -2,8 +2,8 @@
 'https://plantuml.com/mindmap-diagram
 top to bottom direction
 skinparam wrapWidth 200
-
-* задача
+skinparam defaulttextalignment center
+* **задача**
 **[#lime] идёт
 **[#red] не идёт
 *** сложная

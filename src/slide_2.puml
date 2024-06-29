@@ -2,7 +2,7 @@
 'https://plantuml.com/mindmap-diagram
 top to bottom direction
 skinparam wrapWidth 200
-skinparam align center
+skinparam defaulttextalignment center
 
 
 
@@ -11,7 +11,7 @@ skinparam align center
 
 ** <img:/Йеркс.png{scale=0.5}>
 *** Роберт Мирнс Йеркс (1876-1956)
-**** <img:/dodson.jpeg{scale=0.42}>
+**** <img:/dodson.jpeg{scale=0.4}>
 ***** Джон Диллингем Додсон (1879-1955)
 ** <img:/zakon_2.jpg{scale=0.6}>
 

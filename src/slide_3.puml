@@ -2,7 +2,7 @@
 'https://plantuml.com/mindmap-diagram
 top to bottom direction
 skinparam wrapWidth 100
-skinparam align center
+skinparam defaulttextalignment center
 
 
 
